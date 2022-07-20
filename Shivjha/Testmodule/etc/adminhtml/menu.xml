@@ -1,0 +1,11 @@
+
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:module/etc/menu.xsd">
+   <menu>
+       <add id="Shivjha_Testmodule::menu"
+           title="Shivjha_Testmodule" module="Shivjha_Testmodule"
+           sortOrder="10"
+           resource="Magento_Backend::content"
+           />
+   </menu>
+</config>
